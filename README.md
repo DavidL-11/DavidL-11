@@ -4,7 +4,7 @@ I'm a Computer Science master's student at FAU interested in **AI for science an
 
 I enjoy working on the software side of technical problems: building ML pipelines, simulation workflows, developer tools, and systems that make complex research workflows easier to automate and experiment with.
 
-### 🔬 What I'm interested in
+### What I'm interested in
 
 - **AI for Science & Engineering** — using ML to accelerate or automate computationally expensive technical workflows.
 - **Scientific ML** — surrogate models, foundation models, optimization, and ML-assisted simulation.
@@ -29,3 +29,9 @@ A tool for automatically generating box prompts for interactive medical image se
 :medical_symbol: **med-seg-fm**
 
 A framework for evaluating medical image segmentation foundation models across different datasets and imaging modalities, with an emphasis on making comparisons reproducible and easy to extend.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DavidL-11/DavidL-11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DavidL-11/DavidL-11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DavidL-11/DavidL-11/output/github-contribution-grid-snake.svg">
+</picture>
