@@ -1,6 +1,6 @@
-# Hi, I'm David :turtle:
+# Hi, I'm David <img src="https://raw.githubusercontent.com/DavidL-11/DavidL-11/main/wave.gif" width="30">
 
-I'm a Computer Science master's student at FAU interested in **AI for science and engineering**.
+I'm a Computer Science master's student at FAU interested in AI for science and engineering.
 
 I enjoy working on the software side of technical problems: building ML pipelines, simulation workflows, developer tools, and systems that make complex research workflows easier to automate and experiment with.
 
