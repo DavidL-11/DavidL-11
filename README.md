@@ -8,7 +8,7 @@ I enjoy working on the software side of technical problems: building ML pipeline
 
 - **AI for Science & Engineering** — using ML to accelerate or automate computationally expensive technical workflows.
 - **Scientific ML** — surrogate models, foundation models, optimization, and ML-assisted simulation.
-- **Software for research** — turning research ideas into reproducible, modular, and usable tools.
+- **Computer Vision & Robotics** - see for example [my website explaining basic CV concepts](https://davidl-11.github.io/Computer-Vision-Basics/)
 - **HPC & distributed computing** — running large simulation and ML workloads efficiently.
 - **AI agents & developer tools** — exploring how LLMs can interact with specialized software and technical workflows.
 
